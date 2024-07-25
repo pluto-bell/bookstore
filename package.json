@@ -1,0 +1,19 @@
+{
+  "name": "bookstore-2024",
+  "version": "1.0.0",
+  "description": "bookstore",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pluto-bell/bookstore.git"
+  },
+  "author": "pluto bell",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pluto-bell/bookstore/issues"
+  },
+  "homepage": "https://github.com/pluto-bell/bookstore#readme"
+}

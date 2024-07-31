@@ -4,7 +4,9 @@
   "description": "bookstore",
   "main": "index.js",
   "scripts": {
-    "test": "test"
+    "start": "npm run start",
+    "build": "npm run build",
+    "test": "npm run test"
   },
   "repository": {
     "type": "git",
@@ -17,6 +19,7 @@
   },
   "homepage": "https://github.com/pluto-bell/bookstore#readme",
   "dependencies": {
+    "cors": "^2.8.5",
     "dotenv": "^16.4.5",
     "express": "^4.19.2",
     "mongoose": "^8.5.1"
